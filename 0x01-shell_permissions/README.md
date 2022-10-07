@@ -1,1 +1,1 @@
-script that sets the permission to hello
+script that sets the mode of the file hello the same as olleh's mode
