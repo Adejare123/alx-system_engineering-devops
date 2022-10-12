@@ -1,1 +1,1 @@
-display the 10 lines of etc/passwd
+0x02-shell-redirections
