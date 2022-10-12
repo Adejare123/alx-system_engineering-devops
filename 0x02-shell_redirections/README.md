@@ -1,1 +1,1 @@
-display the content of etc/passwd and etc/hosts
+display the 10 lines of etc/passwd
